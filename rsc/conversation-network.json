@@ -1,0 +1,1418 @@
+[
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_001",
+        "reply_to_turn": null,
+        "turn_text": "Olá! Sou o moderador. A atividade de hoje vai iniciar às 10h05. Olá! Sou o moderador. A atividade de hoje vai iniciar às 10h05. Olá! Sou o moderador. A atividade de hoje vai iniciar às 10h05."
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_002",
+        "reply_to_turn": null,
+        "turn_text": "Ola"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_003",
+        "reply_to_turn": null,
+        "turn_text": "Olá!  Sou o moderador. Neste momento os intervenientes estão a entrar na plataforma e a ver o vídeo introdutório do nosso tema de debate de hoje. O debate terá início em 2 minutos."
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_004",
+        "reply_to_turn": null,
+        "turn_text": "ola tudo bem"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_005",
+        "reply_to_turn": null,
+        "turn_text": "Olá"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_006",
+        "reply_to_turn": null,
+        "turn_text": "Olá!  Sou o moderador. Neste momento os intervenientes estão a entrar na plataforma e a ver o vídeo introdutório do nosso tema de debate de hoje. O debate terá início em 1 minuto. Vamos dar início ao debate. Se tiveres de visualizar o vídeo novamente deves abrir uma nova janela ou separador no teu navegador e ir para o seguinte link: https://www.youtube.com/embed/cki1P3wsJ4A?cc_load_policy=1&cc_lang_pref=pt A pergunta de debate de hoje é a seguinte: O estarmos apaixonados é estarmos perdidos? Sim ou não?  Recomendamos escrever frases completas e manter uma atitude de atenção e resposta às intervenções dos outros. Tenta ver os dois lados da discussão, o teu e o de quem não pensa igual a ti. Nesta primeira fase do debate é esperado que os intervenientes contribuam com as suas próprias ideias, assim como estender ou questionar as ideias dos outros. Notem que existe uma opção em forma de seta curva para responder a alguma mensagem em específico. Existe também uma opção “olho” para esconder e mostrar mensagens anteriores, isto permite organizar a janela do debate, mantendo à vista apenas as mensagens que considera mais importantes. A opção do olho só terá efeito no seu ecrã e não altera o que os outros vêm."
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_007",
+        "reply_to_turn": null,
+        "turn_text": "não"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_008",
+        "reply_to_turn": null,
+        "turn_text": "Não"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_009",
+        "reply_to_turn": null,
+        "turn_text": "Existe uma opção no fundo da janela para ir diretamente à intervenção mais recente, caso tenhas feito scroll para ver mensagens anteriores."
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_010",
+        "reply_to_turn": "AMO_R01_006",
+        "turn_text": "Não"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_011",
+        "reply_to_turn": null,
+        "turn_text": "Não"
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_012",
+        "reply_to_turn": "AMO_R01_006",
+        "turn_text": "Não"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_013",
+        "reply_to_turn": null,
+        "turn_text": "Podem começar a partilhar as vossas ideias, eu voltarei a intervir mais logo."
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_014",
+        "reply_to_turn": null,
+        "turn_text": "De nós estarmos apaixonados não é nós estarmos perdidos"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_015",
+        "reply_to_turn": "AMO_R01_014",
+        "turn_text": "pois pois"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_016",
+        "reply_to_turn": null,
+        "turn_text": "É importante apresentar um conjunto abrangente de ideias iniciais que permitam ao grupo focar com maior detalhe naquelas ideias que considerem mais relevantes mais tarde. Que acharam do vídeo?"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_017",
+        "reply_to_turn": null,
+        "turn_text": "Intressante"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_018",
+        "reply_to_turn": null,
+        "turn_text": "estar apaixonado/a não é estar perdido/a"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_019",
+        "reply_to_turn": null,
+        "turn_text": "Interessante..."
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_020",
+        "reply_to_turn": null,
+        "turn_text": "O que é estar apaixonado?"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_021",
+        "reply_to_turn": null,
+        "turn_text": "Estamos perdidos se amarmos mais a outra pessoa que nós mesmos"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_022",
+        "reply_to_turn": "AMO_R01_016",
+        "turn_text": "não percebi muito bem"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_023",
+        "reply_to_turn": "AMO_R01_016",
+        "turn_text": "espetacular"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_024",
+        "reply_to_turn": null,
+        "turn_text": "< ruído >"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_025",
+        "reply_to_turn": null,
+        "turn_text": "Paixão é um termo que designa um sentimento muito forte de atração por uma pessoa, objeto ou tema. A paixão é intensa, envolvente, um entusiasmo ou um desejo forte por qualquer coisa. O termo também é aplicado com frequência para designar um vívido interesse ou admiração."
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_026",
+        "reply_to_turn": "AMO_R01_024",
+        "turn_text": "drum drum"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_027",
+        "reply_to_turn": null,
+        "turn_text": "Gostar muito de uma pessoa e querer estar com ela independente de tudo é o sentimento que nós nao escolhemos simplesmente aparece"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_028",
+        "reply_to_turn": "AMO_R01_027",
+        "turn_text": "exato"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_029",
+        "reply_to_turn": null,
+        "turn_text": "Falar de amor é incerto"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_030",
+        "reply_to_turn": "AMO_R01_029",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_031",
+        "reply_to_turn": null,
+        "turn_text": "o amor nao se ve sentesse"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_032",
+        "reply_to_turn": null,
+        "turn_text": "Ninguém sabe o que é o amor"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_033",
+        "reply_to_turn": null,
+        "turn_text": "Num debate apresentamos argumentos, constituídos por uma afirmação e por uma ou mais premissas de suporte. Podemos desafiar um argumento com premissas que poderão demonstrar que a afirmação é falsa. Podemos dar suporte a um argumento com premissas que provam que a afirmação é verdadeira."
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_034",
+        "reply_to_turn": null,
+        "turn_text": "interssante o filme, fala se de dois apaixonado, e o homem que escrevia o livro nao sabia o que era amor"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_035",
+        "reply_to_turn": null,
+        "turn_text": "Para argumentar utilizamos o raciocínio lógico, assim como factos e evidências."
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_036",
+        "reply_to_turn": null,
+        "turn_text": "O amor é um sentimento ou admiração por uma pessoa"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_037",
+        "reply_to_turn": "AMO_R01_032",
+        "turn_text": "depende"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_038",
+        "reply_to_turn": null,
+        "turn_text": "Porque muitas paixões acabam?"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_039",
+        "reply_to_turn": null,
+        "turn_text": "até pk o amor tanto faz bem como faz mal"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_040",
+        "reply_to_turn": "AMO_R01_039",
+        "turn_text": "Verdade"
+    },
+    {
+        "user_id": 1003,
+        "turn_id": "AMO_R01_041",
+        "reply_to_turn": null,
+        "turn_text": "\"Entre marido e mulher não se mete a colher.\""
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_042",
+        "reply_to_turn": "AMO_R01_036",
+        "turn_text": "e os dois em 1 so"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_043",
+        "reply_to_turn": "AMO_R01_037",
+        "turn_text": "como assim"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_044",
+        "reply_to_turn": "AMO_R01_037",
+        "turn_text": "Yha depende"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_045",
+        "reply_to_turn": "AMO_R01_038",
+        "turn_text": "isso é muito complexo"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_046",
+        "reply_to_turn": "AMO_R01_038",
+        "turn_text": "porque nem sempre que aquilo que nos queremos podemos ter nas nossas vidas"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_047",
+        "reply_to_turn": "AMO_R01_043",
+        "turn_text": "e complicado"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_048",
+        "reply_to_turn": "AMO_R01_039",
+        "turn_text": "Conccordo, por causa do amor uma pessoa pudesse matar"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_049",
+        "reply_to_turn": "AMO_R01_047",
+        "turn_text": "ya ya"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_050",
+        "reply_to_turn": null,
+        "turn_text": "Estar apaixonado é um dos sentimentos  mais nobres que um ser humano pode sentir. alem disso ele é uma  das sensações mais fortes, capaz de nos fazer coisas antes impensáveis."
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_051",
+        "reply_to_turn": null,
+        "turn_text": "Se machuca nao é amor"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_052",
+        "reply_to_turn": "AMO_R01_046",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_053",
+        "reply_to_turn": "AMO_R01_046",
+        "turn_text": "pois e"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_054",
+        "reply_to_turn": "AMO_R01_051",
+        "turn_text": "td depende"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_055",
+        "reply_to_turn": "AMO_R01_045",
+        "turn_text": "a muitas pessoas que pensam que o amor só tem que ter a base da amizade, mas estão muito enganados"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_056",
+        "reply_to_turn": "AMO_R01_054",
+        "turn_text": "Depende do quê"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_057",
+        "reply_to_turn": "AMO_R01_051",
+        "turn_text": "nem sempre e como queremos"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_058",
+        "reply_to_turn": "AMO_R01_050",
+        "turn_text": "sim mas não diria que seja um sentimento nobre"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_059",
+        "reply_to_turn": "AMO_R01_056",
+        "turn_text": "das situações"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_060",
+        "reply_to_turn": "AMO_R01_053",
+        "turn_text": "pois, mas o amor, (amar) tambem e deixar ir"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_061",
+        "reply_to_turn": "AMO_R01_054",
+        "turn_text": "acredita que é muito normal o amor magoar"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_062",
+        "reply_to_turn": "AMO_R01_057",
+        "turn_text": "machuca muito mais fazer o que né"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_063",
+        "reply_to_turn": "AMO_R01_061",
+        "turn_text": "hora la esta"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_064",
+        "reply_to_turn": "AMO_R01_062",
+        "turn_text": "verdade"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_065",
+        "reply_to_turn": "AMO_R01_058",
+        "turn_text": "nobre uma palavra para para \"substituir\" outra palavra"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_066",
+        "reply_to_turn": "AMO_R01_063",
+        "turn_text": "e não é por magoar que deixa de ser amor"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_067",
+        "reply_to_turn": "AMO_R01_061",
+        "turn_text": "SIM , então fica a questão , o amor é um sentimento bom ou mau"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_068",
+        "reply_to_turn": "AMO_R01_062",
+        "turn_text": "exato ahaha"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_069",
+        "reply_to_turn": null,
+        "turn_text": "O amor é uma treta"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_070",
+        "reply_to_turn": "AMO_R01_069",
+        "turn_text": "Como assim"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_071",
+        "reply_to_turn": "AMO_R01_063",
+        "turn_text": "nao nos podemos prender ha alguem que nao nos quer"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_072",
+        "reply_to_turn": null,
+        "turn_text": "Amar mata"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_073",
+        "reply_to_turn": "AMO_R01_071",
+        "turn_text": "Exato é seguir"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_074",
+        "reply_to_turn": null,
+        "turn_text": "e complicado"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_075",
+        "reply_to_turn": "AMO_R01_072",
+        "turn_text": "Como assim"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_076",
+        "reply_to_turn": null,
+        "turn_text": "Deixe já"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_077",
+        "reply_to_turn": null,
+        "turn_text": "O que é que a música, a  poesia, a literatura e outras expressões artísticas têm a ver com a paixão? \nSerá que estas expressões tornam as paixões mais fortes?"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_078",
+        "reply_to_turn": "AMO_R01_076",
+        "turn_text": "Tal e qual"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_079",
+        "reply_to_turn": "AMO_R01_071",
+        "turn_text": "é complicado"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_080",
+        "reply_to_turn": "AMO_R01_067",
+        "turn_text": "é uma palavra tão pequena mas simboliza os dois e muito mais"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_081",
+        "reply_to_turn": null,
+        "turn_text": "amor pode magoar com não pode!"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_082",
+        "reply_to_turn": "AMO_R01_079",
+        "turn_text": "mas é muito dificil de deixar"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_083",
+        "reply_to_turn": "AMO_R01_079",
+        "turn_text": "mesmo que seja complicado temos que continuar com as nossas vidas e continuar, porque se te prenderes a pessoa nunca vais ser feliz."
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_084",
+        "reply_to_turn": "AMO_R01_077",
+        "turn_text": "a poesia leva as pessoas a pensar"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_085",
+        "reply_to_turn": "AMO_R01_082",
+        "turn_text": "Verdade não se deixa de amar de um dia para o outro"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_086",
+        "reply_to_turn": "AMO_R01_084",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_087",
+        "reply_to_turn": null,
+        "turn_text": "A musica tem a ver com a paixão"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_088",
+        "reply_to_turn": "AMO_R01_081",
+        "turn_text": "ya se fores abençoado , nunca magoa , toda a gente já deve ter sofrido por amor"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_089",
+        "reply_to_turn": "AMO_R01_085",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_090",
+        "reply_to_turn": "AMO_R01_085",
+        "turn_text": "por mais dificil que seja temos que deixar ir"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_091",
+        "reply_to_turn": "AMO_R01_088",
+        "turn_text": "concordo!"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_092",
+        "reply_to_turn": "AMO_R01_090",
+        "turn_text": "Exato"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_093",
+        "reply_to_turn": "AMO_R01_087",
+        "turn_text": "poesia eu acho que sim"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_094",
+        "reply_to_turn": "AMO_R01_088",
+        "turn_text": "e há muito gente que sofre e nem repara que é por amor"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_095",
+        "reply_to_turn": "AMO_R01_093",
+        "turn_text": "Depende da música e da poesia"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_096",
+        "reply_to_turn": "AMO_R01_094",
+        "turn_text": "pois e"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_097",
+        "reply_to_turn": "AMO_R01_094",
+        "turn_text": "ora lá está"
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_098",
+        "reply_to_turn": "AMO_R01_090",
+        "turn_text": "Concordo! Se for o melhor para ambos, o melhor a fazer!"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_099",
+        "reply_to_turn": "AMO_R01_094",
+        "turn_text": "exato!"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_100",
+        "reply_to_turn": "AMO_R01_098",
+        "turn_text": "Concordo!"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_101",
+        "reply_to_turn": "AMO_R01_095",
+        "turn_text": "poesia e muito difícil não ser amor"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_102",
+        "reply_to_turn": "AMO_R01_092",
+        "turn_text": "primeiro tamos nos depois tamos nos depois tamos nos ate a gente se sentir bem com nos mesmo depois de nos sentir bem com nos mesmo, temos que dar proiridade a outra pessoa para entrar nas nossas vidas"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_103",
+        "reply_to_turn": "AMO_R01_101",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_104",
+        "reply_to_turn": "AMO_R01_098",
+        "turn_text": "exato"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_105",
+        "reply_to_turn": "AMO_R01_103",
+        "turn_text": "Não concordo"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_106",
+        "reply_to_turn": null,
+        "turn_text": "Tentem identificar as ideias mais relevantes que considerem que devem ser desenvolvidas e argumentadas em maior detalhe. Podem sempre voltar atrás e ver o que já foi escrito por outras pessoas e tentar dar continuidade aos argumentos apresentados."
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_107",
+        "reply_to_turn": "AMO_R01_105",
+        "turn_text": "lol"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_108",
+        "reply_to_turn": null,
+        "turn_text": "Amar mata…"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_109",
+        "reply_to_turn": "AMO_R01_108",
+        "turn_text": "Pois"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_110",
+        "reply_to_turn": "AMO_R01_108",
+        "turn_text": "é verdade"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_111",
+        "reply_to_turn": "AMO_R01_110",
+        "turn_text": "Pois mata"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_112",
+        "reply_to_turn": null,
+        "turn_text": "E acabou < ruído >"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_113",
+        "reply_to_turn": "AMO_R01_110",
+        "turn_text": "um pouco"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_114",
+        "reply_to_turn": null,
+        "turn_text": "nao o amor nao mata, o que mata, e por a gente se apaixonar pela pessoa errada"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_115",
+        "reply_to_turn": null,
+        "turn_text": "sofrer por amor é uma consequência da dependência emocional : quando o individuo proteja suas expectativas e deixa toda a sua felicidade atrelada ao outro, acaba se tornando dependente da pessoa amada para ser feliz ."
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_116",
+        "reply_to_turn": "AMO_R01_114",
+        "turn_text": "concordo!"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_117",
+        "reply_to_turn": "AMO_R01_114",
+        "turn_text": "nunca é a pessoa errada"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_118",
+        "reply_to_turn": "AMO_R01_114",
+        "turn_text": "realmente e difícil entender"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_119",
+        "reply_to_turn": null,
+        "turn_text": "As pessoas e que fodem tudo"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_120",
+        "reply_to_turn": "AMO_R01_118",
+        "turn_text": "verdade"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_121",
+        "reply_to_turn": null,
+        "turn_text": "O que é mais importante, viver a paixão com a outra pessoa, ou estarmos inspirados por essa paixão para expressar tudo aquilo que podemos sentir através de poesia, literatura, música, e arte no geral?"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_122",
+        "reply_to_turn": "AMO_R01_119",
+        "turn_text": "Verdade complicam de mais"
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_123",
+        "reply_to_turn": "AMO_R01_122",
+        "turn_text": "Exato"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_124",
+        "reply_to_turn": "AMO_R01_121",
+        "turn_text": "acho que pela poesia e que sente mais"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_125",
+        "reply_to_turn": null,
+        "turn_text": "Verdade e quando é saude nem se fala"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_126",
+        "reply_to_turn": "AMO_R01_119",
+        "turn_text": "nao se pode confiar em certas pessoas!"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_127",
+        "reply_to_turn": null,
+        "turn_text": "Saudade"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_128",
+        "reply_to_turn": "AMO_R01_121",
+        "turn_text": "Como é óbvio , ter amor próprio é muito melhor"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_129",
+        "reply_to_turn": null,
+        "turn_text": "Amor e um bagulho complicado demais"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_130",
+        "reply_to_turn": "AMO_R01_129",
+        "turn_text": "É lidar fazer o quê"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_131",
+        "reply_to_turn": null,
+        "turn_text": "acho que se sente mais pela musica."
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_132",
+        "reply_to_turn": "AMO_R01_130",
+        "turn_text": "realmente"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_133",
+        "reply_to_turn": null,
+        "turn_text": "Prefiro tar sozinho do que mal acompanhado"
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_134",
+        "reply_to_turn": "AMO_R01_131",
+        "turn_text": "Concordo!"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_135",
+        "reply_to_turn": "AMO_R01_133",
+        "turn_text": "fazes tu muito bem"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_136",
+        "reply_to_turn": null,
+        "turn_text": "Eu antes prefiro viver com a minha paixão com a pessoa  que mais gostamos"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_137",
+        "reply_to_turn": "AMO_R01_133",
+        "turn_text": "mas nem sempre é a melhor coisa ahaha"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_138",
+        "reply_to_turn": "AMO_R01_116",
+        "turn_text": "primeiro temos que nos velorizar mais e gostar mos mais de de nos mesmo, para gostar mos da pessoa e valorizarmos a pessoa se nos nao sabermos velorizarmos a nos n sabemos velorizar a pessoa"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_139",
+        "reply_to_turn": "AMO_R01_133",
+        "turn_text": "Muitas vezes sozinhos é quando nos valorizamos mais"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_140",
+        "reply_to_turn": "AMO_R01_139",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_141",
+        "reply_to_turn": null,
+        "turn_text": "Tentem começar a avançar para um consenso. Tentem utilizar argumentos. O consenso nem sempre significa estarem todos de acordo."
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_142",
+        "reply_to_turn": "AMO_R01_138",
+        "turn_text": "Exatamente"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_143",
+        "reply_to_turn": null,
+        "turn_text": "mas também não dá para ninguém nos amar se nós não nos amarmos a nós próprios"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_144",
+        "reply_to_turn": "AMO_R01_141",
+        "turn_text": "não tem um consenso certo para isso"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_145",
+        "reply_to_turn": "AMO_R01_144",
+        "turn_text": "Concordo"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_146",
+        "reply_to_turn": "AMO_R01_142",
+        "turn_text": "temos que ser fortes"
+    },
+    {
+        "user_id": 1003,
+        "turn_id": "AMO_R01_147",
+        "reply_to_turn": null,
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_148",
+        "reply_to_turn": "AMO_R01_145",
+        "turn_text": "por que amor pode vim do nada e vc nem espera"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_149",
+        "reply_to_turn": "AMO_R01_143",
+        "turn_text": "dar até dar mas se não te amares a ti mesmo nunca vais confiar no amor da outra pessoa"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_150",
+        "reply_to_turn": "AMO_R01_148",
+        "turn_text": "exato"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_151",
+        "reply_to_turn": "AMO_R01_148",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_152",
+        "reply_to_turn": "AMO_R01_149",
+        "turn_text": "acredita que não dá"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_153",
+        "reply_to_turn": null,
+        "turn_text": "o problema do amor, e darmos demias e depois a pessoa nos deixar sem chao"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_154",
+        "reply_to_turn": "AMO_R01_148",
+        "turn_text": "Sim e também pode fugir do nada"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_155",
+        "reply_to_turn": "AMO_R01_153",
+        "turn_text": "hora lá esta!"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_156",
+        "reply_to_turn": null,
+        "turn_text": "Será que a paixão é uma doença que podemos diagnosticar e tratar?"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_157",
+        "reply_to_turn": null,
+        "turn_text": "Isso já tem mais a ver com inseguranças"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_158",
+        "reply_to_turn": "AMO_R01_156",
+        "turn_text": "antes fosse"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_159",
+        "reply_to_turn": "AMO_R01_154",
+        "turn_text": "acho que fugir não mais deixa leva com o vento sim"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_160",
+        "reply_to_turn": null,
+        "turn_text": "Depende"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_161",
+        "reply_to_turn": "AMO_R01_152",
+        "turn_text": "o amor é incerto e eu não faço ideia do que é , mas eu acredito no que disse"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_162",
+        "reply_to_turn": "AMO_R01_155",
+        "turn_text": "mas temos que dar um pouco de nos nao de todo, porque as pessoas dao mais valor a eles do que a pessoa esta do nosso lado"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_163",
+        "reply_to_turn": "AMO_R01_158",
+        "turn_text": "Não amor é o sentimento que nem sempre é correspondido"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_164",
+        "reply_to_turn": "AMO_R01_163",
+        "turn_text": "hora lá está"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_165",
+        "reply_to_turn": "AMO_R01_156",
+        "turn_text": "isso não uma doença mais si depende de vc trata ela ou não"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_166",
+        "reply_to_turn": "AMO_R01_165",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_167",
+        "reply_to_turn": null,
+        "turn_text": "Com quem te identificas mais no vídeo e porque?"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_168",
+        "reply_to_turn": null,
+        "turn_text": "como diz um poeta L7 nem tudo e para sempre"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_169",
+        "reply_to_turn": "AMO_R01_161",
+        "turn_text": "e eu não tenho nada contra em tu acreditares, mas quando acontecer contigo vais ver que vais mudar de ideia"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_170",
+        "reply_to_turn": "AMO_R01_167",
+        "turn_text": "me edentifico com o escritor do filme"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_171",
+        "reply_to_turn": "AMO_R01_168",
+        "turn_text": "concordo"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_172",
+        "reply_to_turn": "AMO_R01_170",
+        "turn_text": "Concordo"
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_173",
+        "reply_to_turn": null,
+        "turn_text": "Identifico me com a colher!"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_174",
+        "reply_to_turn": "AMO_R01_167",
+        "turn_text": "amor e uma coisa que agente não pode controla"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_175",
+        "reply_to_turn": null,
+        "turn_text": "Neste momento do debate recomendamos que o grupo comece a pensar numa dinâmica de fecho e de conclusões. Para onde devemos evoluir e como?"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_176",
+        "reply_to_turn": "AMO_R01_174",
+        "turn_text": "verdade"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_177",
+        "reply_to_turn": "AMO_R01_169",
+        "turn_text": "todos temos maneiras diferentes de pensar"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_178",
+        "reply_to_turn": "AMO_R01_177",
+        "turn_text": "e eu não disse que não"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_179",
+        "reply_to_turn": "AMO_R01_177",
+        "turn_text": "hora lá esta"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_180",
+        "reply_to_turn": "AMO_R01_175",
+        "turn_text": "evoluir no pensamento"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_181",
+        "reply_to_turn": "AMO_R01_178",
+        "turn_text": "< ruído > calma"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_182",
+        "reply_to_turn": "AMO_R01_181",
+        "turn_text": "ahahaha"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_183",
+        "reply_to_turn": null,
+        "turn_text": "mais ou menos ,porque paixão é um sentimento que se sente mas se uma pessoa é obcecada por outra pessoa / não se conseguir \"livrar\" dela acho que isso pode precisar de tratamento"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_184",
+        "reply_to_turn": "AMO_R01_173",
+        "turn_text": "Eu tmb"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_185",
+        "reply_to_turn": "AMO_R01_184",
+        "turn_text": "eu tambem"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_186",
+        "reply_to_turn": "AMO_R01_183",
+        "turn_text": "pensa bem amor e bagulho maluco"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_187",
+        "reply_to_turn": "AMO_R01_183",
+        "turn_text": "não precisa de tratamento nenhum isso muda de pessoa para pessoa"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_188",
+        "reply_to_turn": "AMO_R01_186",
+        "turn_text": "bagulho maluco ai"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_189",
+        "reply_to_turn": "AMO_R01_188",
+        "turn_text": "realmente e ossso"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_190",
+        "reply_to_turn": "AMO_R01_172",
+        "turn_text": "segnificado da exprwssao amor nao correspodido uma idiotaque ama outro que te dao nao correspondido ao amor do outro idiota"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_191",
+        "reply_to_turn": null,
+        "turn_text": "hahah"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_192",
+        "reply_to_turn": "AMO_R01_187",
+        "turn_text": "á cass em que sim precisa de tratamento , obsessão não é para brincadeira"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_193",
+        "reply_to_turn": "AMO_R01_189",
+        "turn_text": "ai ai"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_194",
+        "reply_to_turn": "AMO_R01_187",
+        "turn_text": "pode mudar de pessoa para pessoa ,mas cada pessoa também tem a sua maneira de lidar com cada situação"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_195",
+        "reply_to_turn": null,
+        "turn_text": "Aproximamo-nos agora ao final do debate. Tem sido uma experiência muito especial para nós contar com a vossa participação! Foram impecáveis. Haverão outras séries de debate."
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_196",
+        "reply_to_turn": null,
+        "turn_text": "Perdição (L7)"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_197",
+        "reply_to_turn": null,
+        "turn_text": "Agora é um bom momento para tentar chegar a uma conclusão."
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_198",
+        "reply_to_turn": null,
+        "turn_text": "o amor e bonito, mas se a gente se apaixoar pela pessoa errada nos faz pensar que o amor, nao vale apena"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_199",
+        "reply_to_turn": "AMO_R01_198",
+        "turn_text": "Concordo"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_200",
+        "reply_to_turn": "AMO_R01_194",
+        "turn_text": "sim , mas existe vários e váris casos em que a obsessão é tão grande que precisa de tratamento"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_201",
+        "reply_to_turn": "AMO_R01_198",
+        "turn_text": "e uma Perdição\nL7nnon"
+    },
+    {
+        "user_id": 1000,
+        "turn_id": "AMO_R01_202",
+        "reply_to_turn": "AMO_R01_192",
+        "turn_text": "mas a pessoas tem uma ideia errada de amor e pensam que o amor é uma doença mas não é as pessoas é que o complicam"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_203",
+        "reply_to_turn": null,
+        "turn_text": "podemos perder a pessoa que amamos, mas nos temos que seguir em frente, e valorizarmo nos mais"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_204",
+        "reply_to_turn": "AMO_R01_201",
+        "turn_text": "poetação"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_205",
+        "reply_to_turn": null,
+        "turn_text": "amar nao e pecado..."
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_206",
+        "reply_to_turn": null,
+        "turn_text": "AMAR TAMBEM E DEIXAR IR"
+    },
+    {
+        "user_id": 1003,
+        "turn_id": "AMO_R01_207",
+        "reply_to_turn": null,
+        "turn_text": "..e se eu tiver errado"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_208",
+        "reply_to_turn": "AMO_R01_206",
+        "turn_text": "sim"
+    },
+    {
+        "user_id": 999,
+        "turn_id": "AMO_R01_209",
+        "reply_to_turn": null,
+        "turn_text": "que se dane o mundo eu so quero voce."
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_210",
+        "reply_to_turn": null,
+        "turn_text": "Em dois minutos iniciaremos a dinâmica de fecho do debate a qual consiste em responder algumas perguntas. Muito obrigado a todos e todas pela vossa participação neste debate!"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_211",
+        "reply_to_turn": null,
+        "turn_text": "nao podemos nos prender a alguem que nao nos quer"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_212",
+        "reply_to_turn": null,
+        "turn_text": "Ela tem o mundo na mão mas me chama de vida\nTem amor de sobra, linda, divida"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_213",
+        "reply_to_turn": "AMO_R01_202",
+        "turn_text": "o amor é um sentimento que a gente tem de ter calma para saber lidar coim ele , não esperes que com 15/16/17/ anos vás saber o que é o amor , leva tempo"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_214",
+        "reply_to_turn": "AMO_R01_210",
+        "turn_text": "obrigada"
+    },
+    {
+        "user_id": 1004,
+        "turn_id": "AMO_R01_215",
+        "reply_to_turn": "AMO_R01_213",
+        "turn_text": "concordo!"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_216",
+        "reply_to_turn": "AMO_R01_215",
+        "turn_text": "pois"
+    },
+    {
+        "user_id": 1087,
+        "turn_id": "AMO_R01_217",
+        "reply_to_turn": null,
+        "turn_text": "valorizem se mais, para saberem se valorizarem os outros"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_218",
+        "reply_to_turn": null,
+        "turn_text": "Eu te vi passando na esquina, acho que nós combina\nImagina nós numa alto estrada elevando tua autoestima\nPique trem fora do trilho sem trocar tiro\nJá disse que é só trocadilho, eu miro e atiro"
+    },
+    {
+        "user_id": 996,
+        "turn_id": "AMO_R01_219",
+        "reply_to_turn": "AMO_R01_218",
+        "turn_text": "GOD"
+    },
+    {
+        "user_id": 1003,
+        "turn_id": "AMO_R01_220",
+        "reply_to_turn": null,
+        "turn_text": "o amor é mel."
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_221",
+        "reply_to_turn": "AMO_R01_220",
+        "turn_text": "Só que não"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_222",
+        "reply_to_turn": null,
+        "turn_text": "Mais uma vez, obrigado a todos e todas"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_223",
+        "reply_to_turn": "AMO_R01_220",
+        "turn_text": "Concordo"
+    },
+    {
+        "user_id": 995,
+        "turn_id": "AMO_R01_224",
+        "reply_to_turn": "AMO_R01_218",
+        "turn_text": "ta la"
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_225",
+        "reply_to_turn": "AMO_R01_217",
+        "turn_text": "Um bom concelho! 👌"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_226",
+        "reply_to_turn": "AMO_R01_220",
+        "turn_text": "eu acho que não"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_227",
+        "reply_to_turn": "AMO_R01_226",
+        "turn_text": "Porque ?"
+    },
+    {
+        "user_id": 1001,
+        "turn_id": "AMO_R01_228",
+        "reply_to_turn": "AMO_R01_220",
+        "turn_text": "Claro que é"
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_229",
+        "reply_to_turn": "AMO_R01_227",
+        "turn_text": "é mel sim"
+    },
+    {
+        "user_id": 1002,
+        "turn_id": "AMO_R01_230",
+        "reply_to_turn": "AMO_R01_228",
+        "turn_text": "Porquê?!"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_231",
+        "reply_to_turn": "AMO_R01_229",
+        "turn_text": "não é"
+    },
+    {
+        "user_id": 994,
+        "turn_id": "AMO_R01_232",
+        "reply_to_turn": "AMO_R01_227",
+        "turn_text": "e porque doí"
+    },
+    {
+        "user_id": 1058,
+        "turn_id": "AMO_R01_233",
+        "reply_to_turn": "AMO_R01_231",
+        "turn_text": "Porque"
+    },
+    {
+        "user_id": 993,
+        "turn_id": "AMO_R01_234",
+        "reply_to_turn": "AMO_R01_233",
+        "turn_text": "porque sim"
+    },
+    {
+        "user_id": 5,
+        "turn_id": "AMO_R01_235",
+        "reply_to_turn": null,
+        "turn_text": "Vamos encerrar..."
+    },
+    {
+        "user_id": 998,
+        "turn_id": "AMO_R01_236",
+        "reply_to_turn": null,
+        "turn_text": "mel"
+    }
+]
